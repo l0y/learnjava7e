@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 25.0.2
+Main-Class: ch03.solutions.HelloJar
+
