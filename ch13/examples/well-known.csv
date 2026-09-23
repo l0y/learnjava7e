@@ -1,0 +1,21 @@
+Port,TCP,UDP,Service
+1,Y,Y,TCP Port Service Multiplexer
+9,N,Y,Wake-on-LAN (Unofficial)
+11,Y,Y,Active Users (systat service)
+13,Y,Y,Daytime Protocol
+20,Y,Y,File Transfer Protocol (FTP) data transfer
+21,Y,Y,File Transfer Protocol (FTP) control (command)
+22,Y,Y,Secure Shell (SSH)
+23,Y,Y,Telnet Protocol
+25,Y,Y,Simple Mail Transfer Protocol (SMTP)
+37,Y,Y,Time Protocol
+43,Y,Y,WHOIS protocol
+53,Y,Y,Domain Name System (DNS)
+63,Y,Y,whoispp (whois++)
+70,Y,Y,Gopher protocol
+79,Y,Y,Finger protocol
+80,Y,Y,Hypertext Transfer Protocol (HTTP)
+81,Y,N,TorPark onion routing (Unofficial)
+82,N,Y,TorPark control (Unofficial)
+88,Y,Y,Kerberos authentication system
+92,Y,Y,npp (Network Printing Protocol)
