@@ -1,4 +1,4 @@
-package ch02.exercises;
+package ch02.solutions;
 
 public class GoodbyeJava {
   public static void main(String[] args) {

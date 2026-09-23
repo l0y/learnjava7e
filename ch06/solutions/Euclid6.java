@@ -1,6 +1,6 @@
 package ch06.solutions;
 
-public class Euclid3 {
+public class Euclid6 {
   public static void main(String args[]) {
     int a1, b1;
     int a = 2701;
